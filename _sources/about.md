@@ -1,5 +1,5 @@
 # About
 
-> More information about your (your team) and your work.
+> Hello there!
 
 Some text about you here.
