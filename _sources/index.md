@@ -18,7 +18,7 @@ folder_topic/article_topic
 ```
 
 ```{toctree}
-:maxdepth: 5
+:maxdepth: 2
 :hidden:
 :caption: Blahblah
 
