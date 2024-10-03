@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sphinx-workshop"
+version = "0.1.0"
+description = ""
+authors = ["Angel L. P. <59593766+angelphanth@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sphinx = "^8.0.2"
+sphinx-book-theme = "^1.1.3"
+myst-nb = "^1.1.2"
+ipywidgets = "^8.1.5"
+sphinx-new-tab-link = "!=0.2.2"
+jupytext = "^1.16.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

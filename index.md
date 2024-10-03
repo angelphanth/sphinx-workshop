@@ -17,3 +17,10 @@ about
 folder_topic/article_topic
 ```
 
+```{toctree}
+:maxdepth: 5
+:hidden:
+:caption: Blahblah
+
+yay/article_topic
+```
